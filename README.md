@@ -39,3 +39,7 @@
 5 - commit بعمل 
 6 - git push origin --- بعدين 
 7 - pull request بعدين
+
+-----------------------------------------------
+
+we add new something 
